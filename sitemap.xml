@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://dameng.tech/friends/index.html</loc>
+    <loc>https://dameng.tech/galleries/index.html</loc>
     
     <lastmod>2020-07-01T09:09:44.000Z</lastmod>
     
@@ -16,35 +16,7 @@
   </url>
   
   <url>
-    <loc>https://dameng.tech/about/index.html</loc>
-    
-    <lastmod>2020-07-01T09:09:44.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://dameng.tech/tags/index.html</loc>
-    
-    <lastmod>2020-07-01T09:09:44.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://dameng.tech/contact/index.html</loc>
-    
-    <lastmod>2020-07-01T09:09:44.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://dameng.tech/categories/index.html</loc>
-    
-    <lastmod>2020-07-01T09:09:44.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://dameng.tech/404.html</loc>
+    <loc>https://dameng.tech/AV/index.html</loc>
     
     <lastmod>2020-07-01T09:09:44.000Z</lastmod>
     
@@ -58,14 +30,42 @@
   </url>
   
   <url>
-    <loc>https://dameng.tech/AV/index.html</loc>
+    <loc>https://dameng.tech/categories/index.html</loc>
     
     <lastmod>2020-07-01T09:09:44.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://dameng.tech/galleries/index.html</loc>
+    <loc>https://dameng.tech/contact/index.html</loc>
+    
+    <lastmod>2020-07-01T09:09:44.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dameng.tech/404.html</loc>
+    
+    <lastmod>2020-07-01T09:09:44.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dameng.tech/about/index.html</loc>
+    
+    <lastmod>2020-07-01T09:09:44.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dameng.tech/friends/index.html</loc>
+    
+    <lastmod>2020-07-01T09:09:44.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dameng.tech/tags/index.html</loc>
     
     <lastmod>2020-07-01T09:09:44.000Z</lastmod>
     
